@@ -76,6 +76,3 @@ class En:
             write.write(decrypted)
         ## Modo de uso:
         ### En.imprimir(nome, extensão, En.decrypt(arquivo))
-
-
-En.imprimir("dec", "csv", En.decrypt("txt.csv"))
